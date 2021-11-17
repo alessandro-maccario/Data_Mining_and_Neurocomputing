@@ -1,2 +1,2 @@
-# Data_Mining_-_Neurocomputing
+# Data Mining Neurocomputing
 Repository for Data Mining and Neurocomputing
